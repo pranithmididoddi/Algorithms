@@ -1,0 +1,10 @@
+Traveling Salesman problem
+exhaustive search
+hamiltonian path
+knapsack
+minimum cost spanning tree
+prim's algorithm
+kruskals algorithm
+0-1 knapsack
+dijkstra's
+branch and bound
